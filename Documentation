@@ -30,37 +30,33 @@ To use the Simple Vulnerability Scanner, follow these steps:
 7. Review the scan results.
 8. Optionally, provide feedback based on your experience.
 
+
 ## Dependencies
 
 Before running the scanner, ensure that the following dependencies are installed:
-
 - Python 3
 - Requests library (install using `pip install requests`)
+
+
 
 ## Legal and Ethical Considerations
 
 Before using or distributing this tool, it is important to consider the legal and ethical implications of vulnerability scanning:
-
 1. **Authorization**: Ensure that you have proper authorization before scanning any website or system. Unauthorized scanning can be illegal and unethical.
-
 2. **Responsible Disclosure**: If you discover vulnerabilities in a website or system, consider responsible disclosure. Notify the website owner or administrator about the vulnerabilities rather than exploiting them.
-
 3. **Compliance**: Familiarize yourself with and adhere to relevant laws and regulations, such as the Computer Fraud and Abuse Act (CFAA) in the United States, and GDPR in the European Union.
-
 4. **Terms of Service**: Be aware of and respect the terms of service of the websites you scan. Some websites explicitly prohibit scanning in their terms of use.
-
 5. **Privacy**: Respect user privacy and data protection laws. Avoid collecting, storing, or sharing sensitive user data without proper consent.
 
-## Educational Resources
 
+
+## Educational Resources
 To learn more about web security and ethical hacking, consider exploring the following educational resources:
 
 1. **Web Security Basics**:
    - [OWASP Top Ten Project](https://owasp.org/www-project-top-ten/): The OWASP Top Ten Project lists the most critical web application security risks.
-
 2. **Ethical Hacking Tutorials**:
    - [Hacker101](https://www.hacker101.com/): A free class for web security.
-
 3. **Online Courses**:
    - [Coursera](https://www.coursera.org/): Offers various courses related to cybersecurity and ethical hacking.
 
@@ -72,26 +68,26 @@ To learn more about web security and ethical hacking, consider exploring the fol
    - [HackerOne Blog](https://www.hackerone.com/blog): Features articles on ethical hacking and bug bounty programs.
    - [Stack Overflow](https://stackoverflow.com/): A platform where you can ask and answer questions related to web security.
 
-## Community Engagement
 
+
+## Community Engagement
 We welcome contributions, feedback, and collaboration from the community. Here's how you can get involved:
 
 - **Contribute**: Fork the repository, make improvements, and submit a pull request. We appreciate bug fixes, feature enhancements, and documentation contributions.
-
 - **Feedback**: If you encounter issues, have suggestions, or want to provide feedback, please open an issue on the GitHub repository.
-
 - **Spread the Word**: Help us grow the community by sharing this project with others who might find it useful.
-
 - **Discuss**: Join discussions and share your insights on the [project's GitHub Discussions](https://github.com/yourusername/yourrepository/discussions).
 
-## Feedback and Contributions
 
+
+## Feedback and Contributions
 We value your feedback and contributions. If you have any questions, encounter issues, or want to improve this tool, please feel free to:
 
 - [Open an Issue](https://github.com/yourusername/yourrepository/issues): Report bugs or suggest enhancements.
 - [Submit a Pull Request](https://github.com/yourusername/yourrepository/pulls): Contribute code improvements or fixes.
 - [Join Discussions](https://github.com/yourusername/yourrepository/discussions): Engage in community discussions and share your ideas.
 
-## License
 
+
+## License
 This project is licensed under the [MIT License](LICENSE). By using or contributing to this project, you agree to comply with the terms of the license.
